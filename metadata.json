@@ -1,0 +1,5 @@
+{
+  "name": "LMS Ngữ Văn 7 -GOC",
+  "description": "Một hệ thống quản lý học tập (LMS) dành cho môn học Ngữ Văn lớp 7, bộ sách Kết nối tri thức với cuộc sống. Ứng dụng cung cấp giao diện riêng cho giáo viên và học sinh để quản lý lớp học, bài giảng, bài tập và theo dõi tiến độ học tập.",
+  "requestFramePermissions": []
+}
